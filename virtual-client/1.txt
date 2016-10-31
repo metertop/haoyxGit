@@ -6,23 +6,42 @@
 Downloading: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestSnapshots/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestReleases/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml
-我们大家都有一个使用，为了家庭的幸福，奋斗终身！！
-1004/1004 B                 Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml (1004 B at 9.6 KB/sec)
+
+我们大家都有一个使用，为了家庭的幸福，奋斗终身！！@@@@@____@@@@@
+
+1004/1004 B   
+              
+Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml (1004 B at 9.6 KB/sec)
 Downloading: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/pangu-virtual-all/1.0.0-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestReleases/com/gome/pangu/virtual/pangu-virtual-all/1.0.0-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestSnapshots/com/gome/pangu/virtual/pangu-virtual-all/1.0.0-SNAPSHOT/maven-metadata.xml
-                            618/618 B                 Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/pangu-virtual-all/1.0.0-SNAPSHOT/maven-metadata.xml (618 B at 15.5 KB/sec)
+              
+              
+618/618 B     
+            
+Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/pangu-virtual-all/1.0.0-SNAPSHOT/maven-metadata.xml (618 B at 15.5 KB/sec)
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestSnapshots/com/gome/architect/simple-soatransaction/0.0.1-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestReleases/com/gome/architect/simple-soatransaction/0.0.1-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/architect/simple-soatransaction/0.0.1-SNAPSHOT/maven-metadata.xml
-                                    Downloading: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo/2.5.4-SNAPSHOT/maven-metadata.xml
+            
+            
+            
+Downloading: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo/2.5.4-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestSnapshots/com/alibaba/dubbo/2.5.4-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestReleases/com/alibaba/dubbo/2.5.4-SNAPSHOT/maven-metadata.xml
-                        980/980 B               Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo/2.5.4-SNAPSHOT/maven-metadata.xml (980 B at 17.1 KB/sec)
+            
+            
+980/980 B   
+            
+Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo/2.5.4-SNAPSHOT/maven-metadata.xml (980 B at 17.1 KB/sec)
 Downloading: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo-parent/2.5.4-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestSnapshots/com/alibaba/dubbo-parent/2.5.4-SNAPSHOT/maven-metadata.xml
 Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestReleases/com/alibaba/dubbo-parent/2.5.4-SNAPSHOT/maven-metadata.xml
-                        602/602 B               Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo-parent/2.5.4-SNAPSHOT/maven-metadata.xml (602 B at 14.0 KB/sec)
+            
+            
+602/602 B   
+            
+Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/alibaba/dubbo-parent/2.5.4-SNAPSHOT/maven-metadata.xml (602 B at 14.0 KB/sec)
 [INFO] 
 [INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ pangu-interface ---
 [INFO] com.gome.pangu.virtual:pangu-interface:jar:1.0.0-SNAPSHOT
