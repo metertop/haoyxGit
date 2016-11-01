@@ -11,6 +11,14 @@ Downloading: http://maven.ds.gome.com.cn/nexus/content/repositories/TestReleases
 
 master最新内容，哈哈哈！！
 
+public static String getNew_code{
+	return "this is a new_code!";
+}
+
+public static String getMaster_code_2nd{
+	return "this is the 2nd master code!";
+}
+
 1004/1004 B   
               
 Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml (1004 B at 9.6 KB/sec)
