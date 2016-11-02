@@ -28,6 +28,8 @@ master pm2:02
 2016/11/2
 master_newest code!!!  14:17
 
+新疆好地方啊，遍地是牛羊！！！
+
 1004/1004 B   
               
 Downloaded: http://maven.ds.gome.com.cn/nexus/content/groups/public/com/gome/pangu/virtual/virtual-client/1.0.0-SNAPSHOT/maven-metadata.xml (1004 B at 9.6 KB/sec)
